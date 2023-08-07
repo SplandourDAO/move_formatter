@@ -40,7 +40,7 @@ created: 08/07/2023
 
 ## Reference Implementation
 
-Maybe https://github.com/rust-lang/rustfmt
+TODO: When PR is ready paste here.
 
 ## Risks and Drawbacks
 
